@@ -1,3 +1,8 @@
+---
+title: Choreograph
+layout: post
+---
+
 Choreograph
 ===========
 
